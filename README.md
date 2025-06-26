@@ -4,7 +4,6 @@ A fully functional and visually realistic calculator built using HTML, CSS, and 
 Features:
 - Basic arithmetic operations: `+`, `-`, `×`, `÷`
 - Clear button (`C`) to reset screen
-- Realistic UI using modern CSS (3D buttons, shadows, gradients)
 - Decimal support
 - Display auto-scrolls when input is too long
 - Input validation (prevents multiple operators)
